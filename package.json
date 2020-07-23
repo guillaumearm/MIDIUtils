@@ -1,5 +1,5 @@
 {
-  "name": "midiutils",
+  "name": "@guillaumearm/midiutils",
   "description": "A series of methods to work with MIDI",
   "version": "0.0.4",
   "main": "src/MIDIUtils.js",
